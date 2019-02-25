@@ -1,0 +1,32 @@
+.Container {
+    margin: auto;
+    width: 1008px;
+}
+
+.Countries {
+    width: 25%;
+    margin: 20px;
+    height: 900px;
+    overflow: auto;
+    text-align: left;
+    font-weight: bold;
+    font-size: 1.2rem;
+    border: solid gray;
+    border-radius: 5px;
+    padding: 5px;
+    display: inline-block;
+}
+
+.Info {
+    width: 63%;
+    margin: 20px;
+    height: 900px;
+    overflow: auto;
+    text-align: left;
+    font-weight: bold;
+    font-size: 1.2rem;
+    border: solid gray;
+    border-radius: 5px;
+    padding: 5px;
+    display: inline-block;
+}
